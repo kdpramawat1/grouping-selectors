@@ -1,10 +1,3 @@
-black background and white text
-yellow background
-font size of 28px and a list of fonts containing helvetica and times new roman, with sans- serif as a fallback
-each element needs a unique class name
-use the grouping selector for styles that both elements share?
-did you make seperate rules for the styles unique to each element
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
