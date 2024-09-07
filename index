@@ -9,9 +9,10 @@
 
 <body>
 
-<h1>whatever it is</h1>
+<button>Click Here!</button>
+<button>Click Here!</button>
 
-<style>
+<div>
 p { (click my button)
 background color: yellow;
 font: white;
