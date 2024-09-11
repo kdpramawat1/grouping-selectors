@@ -6,23 +6,12 @@
   <link rel="stylesheet" href="solution.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
-
 <body>
 
 <button>Click Here!</button>
 <button>Click Here!</button>
 
 <div>
-p { (click my button)
-background color: yellow;
-font: white;
-font size: 28px
-font type: 
-
-  
-background color:
-}
-
 </body>
 </html>
 
